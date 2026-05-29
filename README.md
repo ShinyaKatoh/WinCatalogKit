@@ -1,4 +1,4 @@
-# Sequential pipeline scripts
+# WinCatalogKit scripts
 
 このセットは、以下の 3 段階の処理を 1 本の Python ファイルから順番に実行するためのものです。
 
@@ -15,7 +15,7 @@
 
 ## 実行方法
 
-python run_sequential_pipeline.py
+python win_catalog_kit.py
 
 
 ## 設定方法
