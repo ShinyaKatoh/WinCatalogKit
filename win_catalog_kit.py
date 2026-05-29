@@ -63,7 +63,7 @@ CONFIG = {
     "real_binary": "./REAL/REAL",
 
     # モデル
-    "segphase_model": "SegPhase/model_100Hz.pth",
+    "segphase_model": "SegPhase_V2_JP/best_model.pth",
     "povit_model": "PoViT/model_100Hz.pth",
     "device": "cuda:2",
 
