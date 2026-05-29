@@ -63,8 +63,8 @@ CONFIG = {
     "real_binary": "./REAL/REAL",
 
     # モデル
-    "segphase_model": "SegPhase/best_model.pth",
-    "povit_model": "./PoViT/model_100Hz.pth",
+    "segphase_model": "SegPhase/model_100Hz.pth",
+    "povit_model": "PoViT/model_100Hz.pth",
     "device": "cuda:2",
 
     # SegPhase ピーク検出閾値
