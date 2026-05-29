@@ -47,7 +47,7 @@ CONFIG = {
     "final_output_dir": "./pred_res",
 
     # WIN 読み込み用チャンネルリスト
-    "channel_file": "channel_HAGI",
+    "channel_file": "channel_HAGI.list",
 
     # REAL 用 station file
     # このファイルは channel_file から自動作成する。
