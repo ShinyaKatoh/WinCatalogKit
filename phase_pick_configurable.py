@@ -452,7 +452,7 @@ def main(fn, model_FT, device, output_dir='./pred_res', station_file='channel_HA
     
     return 
 
-from SegPhase.model_str import Model
+from SegPhase_V2_JP.model_str import Model
 
 
 def run_phase_pick(
