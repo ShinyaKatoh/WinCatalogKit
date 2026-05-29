@@ -79,7 +79,7 @@ longitude latitude network station channel elevation_km
 ```
 
 例: \
-networkとchannelは適当
+networkとchannelは適宜
 
 ```text
 131.1234 34.5678 CT ABCD HHZ 0.123
