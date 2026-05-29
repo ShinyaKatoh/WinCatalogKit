@@ -78,7 +78,8 @@ elev_km = float(cols[15]) / 1000.0
 longitude latitude network station channel elevation_km
 ```
 
-例:
+例: \
+networkとchannelは適当
 
 ```text
 131.1234 34.5678 CT ABCD HHZ 0.123
